@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/WheatPortfolio/static/css/main.5919c28a.css",
-    "main.js": "/WheatPortfolio/static/js/main.7703fc43.js",
-    "static/media/Tic.png": "/WheatPortfolio/static/media/Tic.7653a9a61d52808c824a.png",
+    "main.js": "/WheatPortfolio/static/js/main.b0b16d3f.js",
+    "static/media/Coin.png": "/WheatPortfolio/static/media/Coin.6c71ebd986d026f28b93.png",
     "static/media/Recipe.png": "/WheatPortfolio/static/media/Recipe.26902d34af01ccbc48b2.png",
     "static/media/Email.png": "/WheatPortfolio/static/media/Email.9dd26a3b6f4d45f136bc.png",
     "index.html": "/WheatPortfolio/index.html",
     "main.5919c28a.css.map": "/WheatPortfolio/static/css/main.5919c28a.css.map",
-    "main.7703fc43.js.map": "/WheatPortfolio/static/js/main.7703fc43.js.map"
+    "main.b0b16d3f.js.map": "/WheatPortfolio/static/js/main.b0b16d3f.js.map"
   },
   "entrypoints": [
     "static/css/main.5919c28a.css",
-    "static/js/main.7703fc43.js"
+    "static/js/main.b0b16d3f.js"
   ]
 }
